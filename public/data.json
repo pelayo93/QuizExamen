@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es la finalidad del proceso administrativo en una organización?",
+    "answers": [
+      "Maximizar el uso de recursos sin importar su eficiencia",
+      "Asignar eficientemente los recursos para introducir productos o servicios en el mercado",
+      "Evitar la toma de decisiones dentro de la organización",
+      "Reducir la cantidad de procesos en una empresa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "¿Qué elemento de un sistema corresponde a la respuesta obtenida de los resultados del proceso?",
+    "answers": ["Entrada", "Proceso", "Salida", "Retroalimentación"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "¿Qué tipo de sistema permite la interacción con otros sistemas u organizaciones?",
+    "answers": [
+      "Sistema cerrado",
+      "Sistema abierto",
+      "Sistema aislado",
+      "Sistema independiente"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál de los siguientes NO es un tipo de organización según su forma jurídica?",
+    "answers": [
+      "Comanditas",
+      "Sociedad de Responsabilidad Limitada",
+      "Organización Transnacional",
+      "Sociedad Anónima"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es el criterio más utilizado para clasificar organizaciones según su tamaño?",
+    "answers": [
+      "Cantidad de colaboradores",
+      "Tipo de industria",
+      "Ventas anuales",
+      "Antigüedad de la organización"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es un ejemplo de retroalimentación en un sistema organizacional?",
+    "answers": [
+      "La compra de insumos para producción",
+      "El análisis de ventas y percepción del cliente",
+      "El diseño de nuevos productos",
+      "La contratación de nuevos empleados"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Qué elemento del proceso organizacional está relacionado con la capacidad de influir en los demás para alcanzar objetivos?",
+    "answers": ["Autoridad", "Poder", "Liderazgo", "Comunicación"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "¿Qué tipo de organizaciones se caracterizan por extraer materia prima?",
+    "answers": [
+      "Organizaciones del sector secundario",
+      "Organizaciones del sector primario",
+      "Organizaciones del sector terciario",
+      "Organizaciones mixtas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es un criterio comúnmente utilizado para clasificar las organizaciones según su tamaño?",
+    "answers": [
+      "Edad de la organización",
+      "Cantidad de productos vendidos",
+      "Ventas anuales",
+      "Ubicación geográfica"
+    ],
+    "correctAnswer": 2
+  }
+]
