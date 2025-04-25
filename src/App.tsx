@@ -1,6 +1,5 @@
 import "./App.css";
 import { Container, Stack, Typography, useTheme } from "@mui/material";
-import { JavaScriptLogo } from "./JavaScriptLogo";
 import { Start } from "./Start";
 import { useQuestionsStore } from "./store/questions";
 import { Game } from "./Game";
@@ -24,7 +23,6 @@ function App() {
           alignItems="center"
           justifyContent="center"
         >
-          {/* <JavaScriptLogo /> */}
           <Typography variant={medium ? "h2" : "h5"} component="h1">
             Administración
           </Typography>
