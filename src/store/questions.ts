@@ -14,7 +14,7 @@ interface State {
 }
 
 const API_URL = import.meta.env.PROD
-  ? "https://midu-react-13.surge.sh/"
+  ? "https://quiz-examen.vercel.app/data.json"
   : "http://localhost:5173/";
 
 export const useQuestionsStore = create<State>()(
