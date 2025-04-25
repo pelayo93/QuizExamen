@@ -1,20 +1,20 @@
-import { Button } from '@mui/material'
-import { useQuestionsStore } from './store/questions'
+import { Button } from "@mui/material";
+import { useQuestionsStore } from "./store/questions";
 
-const LIMIT_QUESTIONS = 10
+const LIMIT_QUESTIONS = 20;
 
 export const Start = () => {
-  const fetchQuestions = useQuestionsStore(state => state.fetchQuestions)
+  const fetchQuestions = useQuestionsStore((state) => state.fetchQuestions);
 
   const handleClick = () => {
-    fetchQuestions(LIMIT_QUESTIONS)
-  }
+    fetchQuestions(LIMIT_QUESTIONS);
+  };
 
   return (
-    <div style={{ marginTop: '16px'}}>
-      <Button onClick={handleClick} variant='contained'>
+    <div style={{ marginTop: "16px" }}>
+      <Button onClick={handleClick} variant="contained">
         ¡Empezar el juego!
       </Button>
     </div>
-  )
-}
+  );
+};
