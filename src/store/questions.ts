@@ -14,7 +14,7 @@ interface State {
 }
 
 const API_URL = import.meta.env.PROD
-  ? "https://quiz-examen.vercel.app/data.json"
+  ? "https://quiz-examen-git-main-pelayo93s-projects.vercel.app/"
   : "http://localhost:5173/";
 
 export const useQuestionsStore = create<State>()(
@@ -42,7 +42,7 @@ export const useQuestionsStore = create<State>()(
             const newQuestions = structuredClone(questions);
             // encontramos el índice de la pregunta
             const questionIndex = newQuestions.findIndex(
-              (q: Question) => q.id === questionId
+              (q: Question) => q.id === questionId // <--- CORREGIDO: Se añadió ': Question'
             );
             // obtenemos la información de la pregunta
             const questionInfo = newQuestions[questionIndex];
