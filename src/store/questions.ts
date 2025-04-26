@@ -14,7 +14,7 @@ interface State {
 }
 
 const API_URL = import.meta.env.PROD
-  ? "quiz-examen-nzvv-git-main-pelayo93s-projects.vercel.app/"
+  ? "https://quiz-examen-nzvv-8422tdqlf-pelayo93s-projects.vercel.app/"
   : "http://localhost:5173/";
 
 export const useQuestionsStore = create<State>()(
