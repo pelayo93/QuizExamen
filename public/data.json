@@ -1,157 +1,90 @@
 [
   {
     "id": 1,
-    "question": "¿Cuál es la finalidad del proceso administrativo en una organización?",
+    "question": "¿Cuál es el propósito principal de un proceso de negocio en una organización?",
     "answers": [
-      "Maximizar el uso de recursos sin importar su eficiencia",
-      "Asignar eficientemente los recursos para introducir productos o servicios en el mercado",
-      "Evitar la toma de decisiones dentro de la organización",
-      "Reducir la cantidad de procesos en una empresa"
+      "Facilitar la comunicación interna",
+      "Garantizar el cumplimiento de regulaciones",
+      "Ofrecer un producto o servicio al mercado",
+      "Mejorar la calidad del liderazgo"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 2,
-    "question": "¿Qué elemento de un sistema corresponde a la respuesta obtenida de los resultados del proceso?",
-    "answers": ["Entrada", "Proceso", "Salida", "Retroalimentación"],
-    "correctAnswer": 3
+    "question": "¿Quiénes suelen encargarse de los procesos estratégicos en una organización?",
+    "answers": [
+      "Operarios de producción",
+      "Clientes y proveedores",
+      "Alta dirección y gerentes",
+      "Equipos de marketing"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 3,
-    "question": "¿Qué tipo de sistema permite la interacción con otros sistemas u organizaciones?",
+    "question": "¿Qué caracteriza a los procesos operativos dentro de una organización?",
     "answers": [
-      "Sistema cerrado",
-      "Sistema abierto",
-      "Sistema aislado",
-      "Sistema independiente"
+      "Se enfocan en el desarrollo y promoción del producto o servicio",
+      "Están orientados a la evaluación de la competencia",
+      "Se encargan únicamente de la gestión administrativa",
+      "Se limitan al análisis financiero interno"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 4,
-    "question": "¿Cuál de los siguientes NO es un tipo de organización según su forma jurídica?",
+    "question": "¿Cuál de los siguientes ejemplos representa un proceso de control en una organización?",
     "answers": [
-      "Comanditas",
-      "Sociedad de Responsabilidad Limitada",
-      "Organización Transnacional",
-      "Sociedad Anónima"
+      "La compra de una maquinaria para aumentar la producción",
+      "La expansión a otro país para aumentar mercado",
+      "La reunión de análisis de ventas y comparación con presupuestos",
+      "La implementación de una nueva estrategia de mercadeo"
     ],
     "correctAnswer": 2
   },
   {
     "id": 5,
-    "question": "¿Cuál es el criterio más utilizado para clasificar organizaciones según su tamaño?",
+    "question": "¿Qué aspecto de una organización define su 'misión'?",
     "answers": [
-      "Cantidad de colaboradores",
-      "Tipo de industria",
-      "Ventas anuales",
-      "Antigüedad de la organización"
+      "Su orientación a largo plazo",
+      "Su razón de ser en el mercado y la sociedad",
+      "Sus valores corporativos",
+      "Sus estrategias de crecimiento"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 1
   },
   {
     "id": 6,
-    "question": "¿Cuál es un ejemplo de retroalimentación en un sistema organizacional?",
+    "question": "¿Cuál es una característica de una buena misión organizacional?",
     "answers": [
-      "La compra de insumos para producción",
-      "El análisis de ventas y percepción del cliente",
-      "El diseño de nuevos productos",
-      "La contratación de nuevos empleados"
+      "Debe ser extensa y detallada",
+      "Debe ser original e inspiradora",
+      "Debe enfocarse solo en los empleados internos",
+      "Debe cambiar constantemente sin relación con la visión"
     ],
     "correctAnswer": 1
   },
   {
     "id": 7,
-    "question": "¿Qué elemento del proceso organizacional está relacionado con la capacidad de influir en los demás para alcanzar objetivos?",
-    "answers": ["Autoridad", "Poder", "Liderazgo", "Comunicación"],
-    "correctAnswer": 2
+    "question": "¿Qué define la 'visión' de una organización?",
+    "answers": [
+      "La percepción pública de la empresa",
+      "La mirada a largo plazo sobre el futuro de la organización",
+      "Las tareas operativas diarias",
+      "La segmentación de mercado actual"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 8,
-    "question": "¿Qué tipo de organizaciones se caracterizan por extraer materia prima?",
+    "question": "¿Por qué son importantes los valores en una organización?",
     "answers": [
-      "Organizaciones del sector secundario",
-      "Organizaciones del sector primario",
-      "Organizaciones del sector terciario",
-      "Organizaciones mixtas"
+      "Orientan las tareas internas y la conducta de los empleados",
+      "Se utilizan solo para estrategias de marketing",
+      "Representan el crecimiento financiero de la empresa",
+      "Son aplicables únicamente en grandes empresas"
     ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 9,
-    "question": "¿Cuál es un criterio comúnmente utilizado para clasificar las organizaciones según su tamaño?",
-    "answers": [
-      "Edad de la organización",
-      "Cantidad de productos vendidos",
-      "Ventas anuales",
-      "Ubicación geográfica"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 10,
-    "question": "¿Cuál es el propósito de los procesos de negocios en una organización?",
-    "answers": [
-      "Reducir costos operativos",
-      "Mejorar la imagen de la empresa",
-      "Ofrecer un producto o servicio al mercado",
-      "Maximizar la eficiencia del personal"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 11,
-    "question": "¿Qué diferencia a los procesos estratégicos de los operativos?",
-    "answers": [
-      "Los estratégicos son de corto plazo y los operativos de largo plazo",
-      "Los estratégicos definen el rumbo de la empresa y los operativos generan el producto o servicio",
-      "Los estratégicos están orientados a cumplir requisitos legales y los operativos a mejorar la producción",
-      "Los estratégicos solo los ejecuta el personal operativo mientras que los operativos son responsabilidad de la gerencia"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 12,
-    "question": "¿Cuál de las siguientes afirmaciones es correcta respecto a la misión de una organización?",
-    "answers": [
-      "Define los pasos para alcanzar los objetivos financieros",
-      "Es la mirada a largo plazo de la empresa",
-      "Describe la razón de ser de la organización en el mercado y la sociedad",
-      "Detalla la estructura organizacional y los roles de cada empleado"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 13,
-    "question": "¿Por qué es importante la visión en una organización?",
-    "answers": [
-      "Permite establecer metas específicas a corto plazo",
-      "Ayuda a inspirar y motivar a quienes forman parte de la empresa",
-      "Garantiza el cumplimiento de los procesos de control",
-      "Determina los valores operacionales de la compañía"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 14,
-    "question": "¿Cuál es la función principal de los valores en una empresa?",
-    "answers": [
-      "Definir la estructura de costos de la organización",
-      "Servir como orientación para la conducta de las personas dentro de la empresa",
-      "Garantizar que la empresa opere en varios mercados simultáneamente",
-      "Determinar el número de empleados en cada área"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 15,
-    "question": "¿Cuál de los siguientes es un ejemplo de un proceso de control?",
-    "answers": [
-      "Definir los valores corporativos",
-      "Realizar reuniones de análisis de ventas y comparación con ventas presupuestadas",
-      "Expansión de operaciones a otro país",
-      "Adquirir maquinaria para aumentar producción"
-    ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   }
 ]
