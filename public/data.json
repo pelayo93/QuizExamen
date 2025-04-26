@@ -1,28 +1,34 @@
 [
   {
     "id": 1,
-    "question": "¿Cuál es el propósito principal de un proceso de negocio en una organización?",
+    "question": "¿Cuál es la función de la fase de planificación en el proceso administrativo?",
     "answers": [
-      "Facilitar la comunicación interna",
-      "Garantizar el cumplimiento de regulaciones",
-      "Ofrecer un producto o servicio al mercado",
-      "Mejorar la calidad del liderazgo"
+      "Definir la estructura organizacional",
+      "Establecer objetivos y metas",
+      "Evaluar indicadores de gestión",
+      "Controlar la eficiencia operativa"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 1
   },
   {
     "id": 2,
-    "question": "¿Quiénes suelen encargarse de los procesos estratégicos en una organización?",
-    "answers": [
-      "Operarios de producción",
-      "Clientes y proveedores",
-      "Alta dirección y gerentes",
-      "Equipos de marketing"
-    ],
+    "question": "¿Qué tipo de planificación define acciones estratégicas de largo plazo?",
+    "answers": ["Operativa", "Táctica", "Estratégica", "Funcional"],
     "correctAnswer": 2
   },
   {
     "id": 3,
+    "question": "¿Cuál es la teoría motivacional que establece una jerarquía de necesidades humanas?",
+    "answers": [
+      "Teoría XY de McGregor",
+      "Teoría de Herzberg",
+      "Pirámide de Maslow",
+      "Teoría del Reforzamiento"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
     "question": "¿Qué caracteriza a los procesos operativos dentro de una organización?",
     "answers": [
       "Se enfocan en el desarrollo y promoción del producto o servicio",
@@ -33,7 +39,73 @@
     "correctAnswer": 0
   },
   {
-    "id": 4,
+    "id": 5,
+    "question": "¿Cuál de los siguientes factores pertenece a la teoría de Herzberg?",
+    "answers": [
+      "Factores higiénicos y motivadores",
+      "Factores extrínsecos e intrínsecos",
+      "Factores de seguridad y estabilidad",
+      "Factores de liderazgo y dirección"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Según la teoría XY de McGregor, ¿qué caracteriza a los trabajadores tipo X?",
+    "answers": [
+      "Son proactivos y buscan responsabilidades",
+      "Evitan el trabajo y necesitan supervisión estricta",
+      "Son creativos y motivados por el reconocimiento",
+      "Prefieren el trabajo colaborativo y la autonomía"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "¿Qué característica distingue a los equipos de autogestión?",
+    "answers": [
+      "Dependen exclusivamente de la alta dirección",
+      "Definen sus propias tareas, tiempos y métodos",
+      "Son equipos informales sin estructura definida",
+      "Trabajan de manera aislada sin comunicación externa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es la función principal del proceso de control dentro de una organización?",
+    "answers": [
+      "Regular actividades para asegurar cumplimiento de objetivos",
+      "Optimizar el uso de recursos tecnológicos",
+      "Aumentar la producción sin supervisión",
+      "Establecer jerarquías organizacionales"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "¿Qué técnica de control se basa en el análisis visual de procesos y tareas?",
+    "answers": [
+      "Auditoría financiera",
+      "Flujogramas y diagramas",
+      "Evaluación de desempeño",
+      "Segmentación de mercado"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál de los siguientes aspectos forma parte fundamental de la dirección en una organización?",
+    "answers": [
+      "La planificación financiera",
+      "El liderazgo y la motivación",
+      "El control de calidad",
+      "La gestión de recursos tecnológicos"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
     "question": "¿Cuál de los siguientes ejemplos representa un proceso de control en una organización?",
     "answers": [
       "La compra de una maquinaria para aumentar la producción",
@@ -44,46 +116,206 @@
     "correctAnswer": 2
   },
   {
-    "id": 5,
-    "question": "¿Qué aspecto de una organización define su 'misión'?",
+    "id": 12,
+    "question": "¿Qué herramienta permite gestionar proyectos mediante actividades alineadas cronológicamente?",
+    "answers": ["Flujograma", "Carta Gantt", "Modelo PESTAL", "Análisis FODA"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es el propósito de la fase organizacional en el proceso administrativo?",
     "answers": [
-      "Su orientación a largo plazo",
-      "Su razón de ser en el mercado y la sociedad",
-      "Sus valores corporativos",
-      "Sus estrategias de crecimiento"
+      "Asignar recursos humanos y materiales",
+      "Definir jerarquías y roles",
+      "Crear estrategias de mercado",
+      "Supervisar el cumplimiento de indicadores"
     ],
     "correctAnswer": 1
   },
   {
-    "id": 6,
-    "question": "¿Cuál es una característica de una buena misión organizacional?",
+    "id": 14,
+    "question": "¿Cuál es la función de la fase de control en el proceso administrativo?",
     "answers": [
-      "Debe ser extensa y detallada",
-      "Debe ser original e inspiradora",
-      "Debe enfocarse solo en los empleados internos",
-      "Debe cambiar constantemente sin relación con la visión"
+      "Asignar recursos financieros",
+      "Verificar el cumplimiento de objetivos",
+      "Definir la visión de la empresa",
+      "Coordinar los equipos de trabajo"
     ],
     "correctAnswer": 1
   },
   {
-    "id": 7,
-    "question": "¿Qué define la 'visión' de una organización?",
+    "id": 15,
+    "question": "¿Qué define la planificación estratégica en una organización?",
     "answers": [
-      "La percepción pública de la empresa",
-      "La mirada a largo plazo sobre el futuro de la organización",
-      "Las tareas operativas diarias",
-      "La segmentación de mercado actual"
+      "Las actividades diarias de los empleados",
+      "Las decisiones operativas en cada departamento",
+      "Los objetivos a mediano y largo plazo de la empresa",
+      "La estructura organizacional interna"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "¿Qué aspecto diferencia la dirección media de la alta dirección en una organización?",
+    "answers": [
+      "Se enfoca en definir estrategias organizacionales",
+      "Desarrolla y ejecuta las decisiones tomadas por la alta dirección",
+      "Solo supervisa tareas operativas",
+      "No tiene influencia en los objetivos organizacionales"
     ],
     "correctAnswer": 1
   },
   {
-    "id": 8,
-    "question": "¿Por qué son importantes los valores en una organización?",
+    "id": 17,
+    "question": "¿Cuál es una característica esencial de los equipos de alto desempeño?",
     "answers": [
-      "Orientan las tareas internas y la conducta de los empleados",
-      "Se utilizan solo para estrategias de marketing",
-      "Representan el crecimiento financiero de la empresa",
-      "Son aplicables únicamente en grandes empresas"
+      "Trabajan de forma aislada",
+      "Se adaptan rápidamente a los cambios",
+      "Evitan la toma de decisiones grupales",
+      "Dependen exclusivamente de un líder"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "¿Qué enfoque de dirección se centra en la enseñanza de mejores prácticas para el desarrollo de tareas?",
+    "answers": [
+      "Dirección por habilidades",
+      "Dirección por valores",
+      "Dirección por objetivos",
+      "Dirección operativa"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál de las siguientes opciones representa un ejemplo de control de retroalimentación?",
+    "answers": [
+      "Supervisión directa de los trabajadores durante su tarea",
+      "Revisión de reportes de desempeño una vez finalizada la actividad",
+      "Aprobación de recursos antes de iniciar una operación",
+      "Autorización previa para descuentos en ventas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál es un requisito clave para que un sistema de control sea efectivo?",
+    "answers": [
+      "Debe basarse solo en información cualitativa",
+      "Debe incluir estándares de rendimiento claros y medibles",
+      "Debe excluir la participación de los colaboradores",
+      "Debe centrarse solo en el análisis financiero"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "¿Qué elemento caracteriza el liderazgo de coaching?",
+    "answers": [
+      "Supervisión estricta",
+      "Orientación basada en el desarrollo personal y profesional",
+      "Toma de decisiones unilateral",
+      "Fomento de la competencia interna"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "¿Qué herramienta estratégica ayuda a analizar factores externos que impactan en una organización?",
+    "answers": [
+      "Flujograma",
+      "Análisis FODA",
+      "Carta Gantt",
+      "Modelo de costos"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "¿Qué determina la planificación operativa en una organización?",
+    "answers": [
+      "Las actividades diarias y procedimientos específicos",
+      "Los objetivos estratégicos de largo plazo",
+      "La gestión de talento humano",
+      "Las tendencias del mercado"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "¿Qué factor motiva a los trabajadores según la teoría Y de McGregor?",
+    "answers": [
+      "Recompensas económicas y sanciones",
+      "Sentido de responsabilidad y autorrealización",
+      "Control estricto de tareas",
+      "Falta de supervisión"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "¿Qué se debe garantizar en la conformación de un equipo de trabajo eficiente?",
+    "answers": [
+      "Que los miembros tengan habilidades complementarias",
+      "Que todos los integrantes tengan la misma personalidad",
+      "Que se priorice el trabajo individual sobre el grupal",
+      "Que el equipo solo reciba instrucciones sin autonomía"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "¿Cuál es la función de la alta dirección en una organización?",
+    "answers": [
+      "Ejecutar procesos operativos",
+      "Supervisar tareas específicas de los empleados",
+      "Definir estrategias y objetivos generales",
+      "Registrar los indicadores de control"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "¿Qué estrategia permite minimizar la insatisfacción laboral según Herzberg?",
+    "answers": [
+      "Aumento salarial sin cambios estructurales",
+      "Mejoramiento de condiciones de trabajo y relaciones humanas",
+      "Distribución aleatoria de tareas",
+      "Aplicación de sanciones para garantizar productividad"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "¿Cómo pueden los líderes usar la teoría de Maslow para motivar a sus empleados?",
+    "answers": [
+      "Ignorando sus necesidades individuales",
+      "Proporcionando condiciones que ayuden a satisfacer sus necesidades progresivamente",
+      "Limitando oportunidades de crecimiento",
+      "Imponiendo una estructura rígida de trabajo"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "¿Cuál es el propósito de los equipos virtuales en una organización?",
+    "answers": [
+      "Eliminar la interacción directa entre colaboradores",
+      "Adaptarse a estructuras organizacionales flexibles",
+      "Evitar el uso de tecnologías de comunicación",
+      "Reducir la autonomía de los trabajadores"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "¿Qué elemento caracteriza el control preliminar en una organización?",
+    "answers": [
+      "Se aplica antes de la ejecución de una tarea para evitar errores",
+      "Se realiza durante la actividad para optimizar procesos",
+      "Solo se aplica al final del ciclo de trabajo",
+      "Depende exclusivamente del equipo de recursos humanos"
     ],
     "correctAnswer": 0
   }
